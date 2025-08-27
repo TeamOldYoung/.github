@@ -2,7 +2,7 @@
 <img width="1200" height="500" alt="KakaoTalk_Photo_2025-08-26-22-09-10" src="https://github.com/user-attachments/assets/98bab01e-b7e6-429a-95e9-54a8a13d0f72" />
 
 ### 한국오라클 기업프로젝트 *Old Young*
-[young-old.com](young-old.com)
+[Old Young](https://young-old.com)
 </div>
 
 ## 🚕 소개
