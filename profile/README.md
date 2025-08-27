@@ -78,7 +78,7 @@
 
 ### 🔁 CI/CD & DevOps
 
-<img width="1511" height="636" alt="인프라" src="https://github.com/user-attachments/assets/bbea24b1-fa33-4fe4-9bcd-be713705a6d8" />
+<img width="1511" height="535" alt="인프라" src="https://github.com/user-attachments/assets/3f580fae-9ffc-41ba-924f-7b4b5685f09e" />
 
 - **Jenkins**: CI/CD 파이프라인 구축 및 자동 배포
 - **Discord Webhook**: 배포 및 장애 알림 전송
