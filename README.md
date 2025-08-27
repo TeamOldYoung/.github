@@ -69,6 +69,8 @@
 
 ### ☁️ Infrastructure (아키텍처 사진))
 
+<img width="1511" height="535" alt="diagram-export-8-27-2025-2_46_59-PM (1)" src="https://github.com/user-attachments/assets/ce0e8189-4e70-4d69-b263-4e4d85ccb143" />
+
 - **AWS EC2**: 애플리케이션 서버 호스팅
 - **AWS RDS (MySQL)**: 관리형 데이터베이스
 - **Nginx**: 리버스 프록시 및 SSL 인증 처리
