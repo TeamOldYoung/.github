@@ -76,7 +76,7 @@
 
 ---
 
-### 🔁 CI/CD & DevOps (CICD 사진))
+### 🔁 CI/CD & DevOps
 
 - **Jenkins**: CI/CD 파이프라인 구축 및 자동 배포
 - **Discord Webhook**: 배포 및 장애 알림 전송
