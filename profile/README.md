@@ -13,7 +13,7 @@
 
 노인 친화형 대화를 위한 맞춤 프롬프트를 토대로 실시간으로 Q&A 또한 가능합니다.
 
-## 🖥 서비스 화면 (사진 업데이트 예정)
+## 🖥 서비스 화면
 
 <img width="384" height="761" alt="스크린샷 2025-08-27 오후 2 36 40" src="https://github.com/user-attachments/assets/1bd4937d-8901-4c95-8a29-339431a4e39a" />
 <img width="390" height="762" alt="스크린샷 2025-08-27 오후 2 36 59" src="https://github.com/user-attachments/assets/5ffe6ccf-a895-4dd9-8b9f-2f14594f1a7e" />
